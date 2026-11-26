@@ -1,0 +1,9 @@
+gradio
+groq
+gTTS
+pydub
+PyPDF2
+pandas
+python-dotenv
+opencv-python-headless
+numpy
