@@ -1,9 +1,2 @@
-gradio
-groq
-gTTS
-pydub
-PyPDF2
+streamlit
 pandas
-python-dotenv
-opencv-python-headless
-numpy
